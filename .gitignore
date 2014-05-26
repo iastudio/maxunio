@@ -43,7 +43,4 @@ node_modules
 # *.sublime-project
 
 #sftp configuration file
-#sftp-config.json
-
-index.html
-css/app.css
+sftp-config.json
