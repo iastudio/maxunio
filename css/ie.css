@@ -1,0 +1,60 @@
+body, html {
+	overflow: auto !important;
+}
+
+header#header {
+	padding: 30px;
+	margin-bottom: 30px;
+}
+
+#header .divider {
+	margin-left: -10px;
+}
+
+#header .phones h2 {
+	margin-top: -15px;
+}
+
+#hero .hero-form {
+	background: #E6E6E6;
+}
+
+#about p {
+	margin-left: 20px;
+}
+
+#pluses span {
+	display: block;
+}
+
+#feedback .testimonial {
+	margin-left: 10px;
+	margin-right: 20px;
+}
+
+#special .special-form {
+	margin-left: 60px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea {
+	min-height: 16px;
+	padding: 10px;
+	margin-bottom: 11px;
+}
+
+h1, h2, h3, h4, h5, p {
+	margin-bottom: 18px;
+}
